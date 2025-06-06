@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bryan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"><img height="40" src="https://cdn3.emoji.gg/emojis/14067-dancingchristmaspepe.gif"> Hi 👋, I'm Bryan <img height="40" src="https://cdn3.emoji.gg/emojis/99856-pepefutbol.gif"></h1>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
