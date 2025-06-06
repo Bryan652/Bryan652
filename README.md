@@ -4,7 +4,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Laravel Course**
 
 - 🌱 I’m currently learning **Python and C**
 
