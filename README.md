@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **Bryandelacruz901@gmail.com**
 
-- ⚡ What I like to do: **I like so much gaming, movies and reading...and coding of course**
+- ⚡ What I like to do: *gaming, movies and reading...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
