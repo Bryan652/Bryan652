@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **Game Development Course**
 
-- 🌱 I’m currently learning **Python and Laravel**
+- 🌱 I’m currently learning **Python, Laravel, and Unity**
 
 
 - 📫 How to reach me: **Bryandelacruz901@gmail.com**
