@@ -1,7 +1,7 @@
 <h1 align="center"><img height="40" src="https://cdn3.emoji.gg/emojis/14067-dancingchristmaspepe.gif"> Hi 👋, I'm Bryan <img height="40" src="https://cdn3.emoji.gg/emojis/99856-pepefutbol.gif"></h1>
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://community.aseprite.org/uploads/default/original/2X/b/b5a0cd011b642b629ce844a2c4935f7a9b72276f.gif" alt = "Snake Game"/>
 </p>
 
 - 🔭 I’m currently working on my **Game Development Course**
