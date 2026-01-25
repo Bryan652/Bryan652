@@ -6,7 +6,7 @@
 
 - I’m currently working on **Capstone**
 
-- I’m currently learning **Python, Laravel, and Unity**
+- I’m currently learning **Python, React.js, and Unity**
 
 
 - How to reach me: **Bryandelacruz901@gmail.com**
