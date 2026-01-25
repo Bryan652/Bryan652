@@ -4,14 +4,14 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-- 🔭 I’m currently working on **Game Development, Event-Driven-Programming, (Software, App) Development**
+- I’m currently working on **Game Development, Event-Driven-Programming, (Software, App) Development**
 
-- 🌱 I’m currently learning **Python, Laravel, and Unity**
+- I’m currently learning **Python, Laravel, and Unity**
 
 
-- 📫 How to reach me: **Bryandelacruz901@gmail.com**
+- How to reach me: **Bryandelacruz901@gmail.com**
 
-- ⚡ What I like to do: *gaming, movies and reading...and coding of course**
+- What I like to do: *gaming, movies and reading...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
