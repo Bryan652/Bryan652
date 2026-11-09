@@ -10,7 +10,6 @@ I like shipping things and then automating everything around them.
 - Former **QA Intern @ Kooapps**: Selenium automation, live monitoring, 154+ bugs
 - Learning **AWS** + **Terraform** right now
 - Arch Linux daily driver
-- Open to **DevOps / Cloud / QA Automation** internships
 
 [LinkedIn](https://www.linkedin.com/in/bryan-dela-cruz-358ab9282) · [Portfolio](https://bryan-website-five.vercel.app/) · [Email](mailto:Bryandelacruz901@gmail.com)
 
